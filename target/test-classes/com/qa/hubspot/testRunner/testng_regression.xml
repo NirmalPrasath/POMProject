@@ -7,7 +7,8 @@
 		
 		<classes>
 			<class name="com.qa.hubspot.test.LoginTest"/>
-			
+			<class name="com.qa.hubspot.test.HomePageTest"/>
+			<class name="com.qa.hubspot.test.ContactsPageTest"/>
 		</classes>
 	</test>
 </suite>

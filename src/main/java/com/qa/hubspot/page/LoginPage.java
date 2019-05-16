@@ -46,6 +46,9 @@ public class LoginPage extends BasePage {
 		emailId.sendKeys(uname);
 		password.sendKeys(pword);
 		loginButton.click();
+		
+		//<class name="com.qa.hubspot.test.HomePageTest"/>
+		//<class name="com.qa.hubspot.test.ContactsPageTest"/>
 		return new HomePage(driver);
 		
 	}
