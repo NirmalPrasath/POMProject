@@ -1,0 +1,8 @@
+com\qa\hubspot\page\HomePage.class
+com\qa\hubspot\utility\WaitUtil.class
+com\qa\hubspot\page\DealsPage.class
+com\qa\hubspot\utility\Utility.class
+com\qa\hubspot\basePage\BasePage.class
+com\qa\hubspot\constants\Contsants.class
+com\qa\hubspot\page\ContactsPage.class
+com\qa\hubspot\page\LoginPage.class
