@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="380212" started-at="2019-05-15T10:15:54Z" finished-at="2019-05-15T10:22:14Z">
+  <suite name="Default suite" duration-ms="348870" started-at="2019-05-16T22:26:44Z" finished-at="2019-05-16T22:32:33Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="380212" started-at="2019-05-15T10:15:54Z" finished-at="2019-05-15T10:22:14Z">
-      <class name="com.qa.hubspot.test.ContactsTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="setUp" is-config="true" duration-ms="93659" started-at="2019-05-15T10:15:56Z" finished-at="2019-05-15T10:17:30Z">
+    <test name="Default test" duration-ms="348870" started-at="2019-05-16T22:26:44Z" finished-at="2019-05-16T22:32:33Z">
+      <class name="com.qa.hubspot.test.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="setUp" is-config="true" duration-ms="98743" started-at="2019-05-16T22:26:46Z" finished-at="2019-05-16T22:28:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="testCreateContacts" duration-ms="39636" started-at="2019-05-15T10:17:30Z" data-provider="getContact" finished-at="2019-05-15T10:18:10Z">
+        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="testCreateContacts" duration-ms="31792" started-at="2019-05-16T22:28:25Z" data-provider="getContact" finished-at="2019-05-16T22:28:57Z">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateContacts -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="tearDown" is-config="true" duration-ms="1992" started-at="2019-05-15T10:18:10Z" finished-at="2019-05-15T10:18:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1659" started-at="2019-05-16T22:28:57Z" finished-at="2019-05-16T22:28:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="setUp" is-config="true" duration-ms="61287" started-at="2019-05-15T10:18:12Z" finished-at="2019-05-15T10:19:13Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="setUp" is-config="true" duration-ms="43508" started-at="2019-05-16T22:28:59Z" finished-at="2019-05-16T22:29:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="testCreateContacts" duration-ms="26397" started-at="2019-05-15T10:19:13Z" data-provider="getContact" finished-at="2019-05-15T10:19:40Z">
+        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="testCreateContacts" duration-ms="25580" started-at="2019-05-16T22:29:42Z" data-provider="getContact" finished-at="2019-05-16T22:30:08Z">
           <params>
             <param index="0">
               <value>
@@ -71,15 +71,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateContacts -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="tearDown" is-config="true" duration-ms="1984" started-at="2019-05-15T10:19:40Z" finished-at="2019-05-15T10:19:42Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1702" started-at="2019-05-16T22:30:08Z" finished-at="2019-05-16T22:30:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="setUp" is-config="true" duration-ms="43541" started-at="2019-05-15T10:19:42Z" finished-at="2019-05-15T10:20:25Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="setUp" is-config="true" duration-ms="48586" started-at="2019-05-16T22:30:09Z" finished-at="2019-05-16T22:30:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="testCreateContacts" duration-ms="24652" started-at="2019-05-15T10:20:25Z" data-provider="getContact" finished-at="2019-05-15T10:20:50Z">
+        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="testCreateContacts" duration-ms="23095" started-at="2019-05-16T22:30:58Z" data-provider="getContact" finished-at="2019-05-16T22:31:21Z">
           <params>
             <param index="0">
               <value>
@@ -105,15 +105,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateContacts -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="tearDown" is-config="true" duration-ms="1626" started-at="2019-05-15T10:20:50Z" finished-at="2019-05-15T10:20:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1388" started-at="2019-05-16T22:31:21Z" finished-at="2019-05-16T22:31:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="setUp" is-config="true" duration-ms="55105" started-at="2019-05-15T10:20:52Z" finished-at="2019-05-15T10:21:47Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="setUp" is-config="true" duration-ms="39243" started-at="2019-05-16T22:31:22Z" finished-at="2019-05-16T22:32:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="testCreateContacts" duration-ms="25630" started-at="2019-05-15T10:21:47Z" data-provider="getContact" finished-at="2019-05-15T10:22:12Z">
+        <test-method status="PASS" signature="testCreateContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="testCreateContacts" duration-ms="29248" started-at="2019-05-16T22:32:02Z" data-provider="getContact" finished-at="2019-05-16T22:32:31Z">
           <params>
             <param index="0">
               <value>
@@ -139,11 +139,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateContacts -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsTest@91161c7]" name="tearDown" is-config="true" duration-ms="1765" started-at="2019-05-15T10:22:12Z" finished-at="2019-05-15T10:22:14Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.test.ContactsPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1690" started-at="2019-05-16T22:32:31Z" finished-at="2019-05-16T22:32:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.qa.hubspot.test.ContactsTest -->
+      </class> <!-- com.qa.hubspot.test.ContactsPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
